@@ -3179,9 +3179,9 @@ body.hamburger-menu .header-top {
 }
 
 .header-top {
-    position: fixed;
+    /* position: fixed;
     top: 0;
-    left: 0;
+    left: 0; */
     width: 100%;
     z-index: 99;
     -webkit-transition: all 0.5s;
